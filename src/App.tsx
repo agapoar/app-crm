@@ -286,7 +286,6 @@ const App: React.FC = () => {
                 <UnsavedChangesNotifier />
                 <DocumentTitleHandler />
               </Refine>
-              <DevtoolsPanel />
             </DevtoolsProvider>
           </AntdApp>
         </ConfigProvider>
